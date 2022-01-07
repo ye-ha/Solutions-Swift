@@ -266,5 +266,8 @@ xcuserdata
 !*.xcworkspace/contents.xcworkspacedata
 **/xcshareddata/WorkspaceSettings.xcsettings
 
+## xcodeproj folder
+Solution-Swift/
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,swift,swiftpm,swiftpackagemanager,xcode,visualstudiocode,appcode
 
